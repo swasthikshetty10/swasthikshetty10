@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### Its Swasthik Shetty
+### I'm Swasthik Shetty
 
 <!--
 **swasthikshetty10/swasthikshetty10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
