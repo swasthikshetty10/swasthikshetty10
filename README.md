@@ -47,6 +47,11 @@ Here are some ideas to get you started:
 </a>
 
 <br><br><br><br>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+
+<br><br><br><br>
+<img src="https://github-readme-stats.vercel.app/api?username=swasthikshetty10&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="swasthikshetty10's GitHub Stats">
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=swasthikshetty10&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 
 ----
