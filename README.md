@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
  
 
-<img align="right" src="https://cdn.discordapp.com/attachments/773803149890027520/780032461681066004/tenor.gif" alt="Coder GIF" width="500" height="400">
+<img align="right" src="https://cdn.discordapp.com/attachments/773803149890027520/780032461681066004/tenor.gif" alt="Coder GIF" width="300" height="300">
 
 <a href="https://discord.gg/SYjc9F2">
   <img src="https://cdn.iconscout.com/icon/free/png-64/discord-3-569463.png" alt="BIT CODΞ LΞGIOИ 💻" width="26"/>
@@ -47,11 +47,14 @@ Here are some ideas to get you started:
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 
 <br><br><br><br>
+----
 <img src="https://github-readme-stats.vercel.app/api?username=swasthikshetty10&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="swasthikshetty10's GitHub Stats">
-<br>
+----
+<br><br>
+----
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=swasthikshetty10&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" >
-
-<br><br><br>
+----
+<br><br>
 ----
 <a href="https://github.com/swasthikshetty10">
   <img src="https://komarev.com/ghpvc/?username=swasthikshetty10&label=Views&color=blue&style=plastic" alt="swasthikshetty10" />
