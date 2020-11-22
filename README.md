@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 <br><br>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 
 <br><br><br><br>
