@@ -43,8 +43,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: swasthikshetty10902@gmail.com;
 <br><br><br><br>
 
-<a href="https://github.com/ankitwarbhe">
-  <img src="https://komarev.com/ghpvc/?username=ankitwarbhe&label=Views&color=blue&style=plastic" alt="ankitwarhe" />
+<a href="https://github.com/swasthikshetty10">
+  <img src="https://komarev.com/ghpvc/?username=ankitwarbhe&label=Views&color=blue&style=plastic" alt="swasthikshetty10902" />
 </a>
 
 <br><br><br><br>
