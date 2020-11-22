@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - :telescope: I'm currently studying BTech in CSE 💻;
 - :hourglass_flowing_sand: Learning and Exploring world of Computer Science,;
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
-- 📫 How to reach me: swasthikshetty10902@gmail.com;
+- 📫 How to reach me: swasthikshetty10902@gmail.com
 <br><br>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
