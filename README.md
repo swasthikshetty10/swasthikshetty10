@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 <br><br><br>
 ----
 <a href="https://github.com/swasthikshetty10">
-  <img src="https://komarev.com/ghpvc/?username=ankitwarbhe&label=Views&color=blue&style=plastic" alt="swasthikshetty10" />
+  <img src="https://komarev.com/ghpvc/?username=swasthikshetty10&label=Views&color=blue&style=plastic" alt="swasthikshetty10" />
 </a>
 
 
