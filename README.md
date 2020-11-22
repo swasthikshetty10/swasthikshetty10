@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-
+----
 <br><br><br><br>
 <img src="https://github-readme-stats.vercel.app/api?username=swasthikshetty10&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="swasthikshetty10's GitHub Stats">
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=swasthikshetty10&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" >
----
+----
 <br><br><br>
 <a href="https://github.com/swasthikshetty10">
   <img src="https://komarev.com/ghpvc/?username=ankitwarbhe&label=Views&color=blue&style=plastic" alt="swasthikshetty10" />
