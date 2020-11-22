@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 <img src="https://github-readme-stats.vercel.app/api?username=swasthikshetty10&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="swasthikshetty10's GitHub Stats">
 <img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=swasthikshetty10&hide_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" >
 ---
-<br>
+<br><br><br>
 <a href="https://github.com/swasthikshetty10">
   <img src="https://komarev.com/ghpvc/?username=ankitwarbhe&label=Views&color=blue&style=plastic" alt="swasthikshetty10" />
 </a>
