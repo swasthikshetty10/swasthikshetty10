@@ -41,16 +41,18 @@ Here are some ideas to get you started:
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
 - 📫 How to reach me: swasthikshetty10902@gmail.com
 - 📡 MY Hosted projects : 
-<p> 1 :
+<ul>
+<li> 
  <a href="http://bclnews.herokuapp.com/">
  BCL NEWs
  </a> 
- - a indian news website</p>
-<p> 2 :
+ - a indian news website</li>
+<li>
 <a href="https://discord.com/api/oauth2/authorize?client_id=772372193963016202&permissions=0&scope=bot">
  Chotu</a>
  - a DIscord bot
-</p>
+</li>
+ </ul>
 
 <br><br>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
