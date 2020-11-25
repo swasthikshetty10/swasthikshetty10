@@ -40,7 +40,18 @@ Here are some ideas to get you started:
 - :hourglass_flowing_sand: Learning and Exploring world of Computer Science,;
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
 - 📫 How to reach me: swasthikshetty10902@gmail.com
-- 📡 MY Hosted projects http://bclnews.herokuapp.com/ ,
+- 📡 MY Hosted projects : 
+<p> 1 :
+ <a href="http://bclnews.herokuapp.com/">
+ BCL NEWs
+ </a> 
+ - a indian news website</p>
+<p> 2 :
+<a href="https://discord.com/api/oauth2/authorize?client_id=772372193963016202&permissions=0&scope=bot">
+ Chotu</a>
+ - a DIscord bot
+</p>
+
 <br><br>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="15%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
