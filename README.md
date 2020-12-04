@@ -46,7 +46,7 @@ Here are some ideas to get you started:
  <a href="http://bclnews.herokuapp.com/">
  BCL NEWs
  </a> 
- - a indian news website</li>
+ - an indian news website</li>
 <li>
 <a href="https://discord.com/api/oauth2/authorize?client_id=772372193963016202&permissions=0&scope=bot">
  Chotu</a>
