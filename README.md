@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 - 📡 MY Hosted projects : 
 <ul>
 <li> 
- <a href="http://bclnews.herokuapp.com/">
+ <a href="https://bclnews.azurewebsites.net/">
  BCL NEWs
  </a> 
  - an indian news website</li>
