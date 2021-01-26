@@ -38,10 +38,17 @@ Here are some ideas to get you started:
 
 - :telescope: I'm currently studying BTech in CSE 💻;
 - :hourglass_flowing_sand: Learning and Exploring world of Computer Science,;
-- 💬 I love connecting with different people so if you want any help, I'll be happy to meet you more! :) ;
+- 💬 I love connecting with different people so if you need any help, I'll be happy to meet you :) ;
 - 📫 How to reach me: swasthikshetty10902@gmail.com
+
+
 - 📡 MY Hosted projects : 
 <ul>
+ <li> 
+ <a href="https://epaxai.azurewebsites.net/">
+ EPAX-AI 
+ </a> 
+  - AI Virtual assistant with ML
 <li> 
  <a href="https://bclnews.azurewebsites.net/">
  BCL NEWs
