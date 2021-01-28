@@ -48,16 +48,16 @@ Here are some ideas to get you started:
  <a href="https://epaxai.azurewebsites.net/">
  EPAX-AI 
  </a> 
-  - AI Virtual assistant with ML
+  - AI Virtual assistant (Django,NLTK&TF)
 <li> 
  <a href="https://bclnews.azurewebsites.net/">
  BCL NEWs
  </a> 
- - an indian news website</li>
+ - an indian news website (web scraping)</li>
 <li>
 <a href="https://discord.com/api/oauth2/authorize?client_id=772372193963016202&permissions=0&scope=bot">
  Chotu</a>
- - a DIscord bot
+ - a DIscord bot (discord.py)
 </li>
  </ul>
 
