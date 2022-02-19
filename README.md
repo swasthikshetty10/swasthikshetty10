@@ -56,7 +56,6 @@ Here are some ideas to get you started:
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=swasthikshetty10&show_icons=true&count_private=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=swasthikshetty10&hide=css,java,html&count_private=true&theme=tokyonight">
 </p>
 
 
